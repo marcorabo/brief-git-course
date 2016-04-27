@@ -1,0 +1,72 @@
+body {
+	padding:0px;
+	margin:0px;
+	font-family: 'verdana';
+	background:url('../images/git-logo.png');
+}
+div.header
+{
+	width:100%;
+	background-color: #459;
+}
+a
+{
+	text-decoration: none;
+}
+p
+{
+	margin:10px 20px 40px 20px;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+div.content
+{
+	width:900px;
+	margin:0 auto;
+	background: #fff;
+	min-height:100%;
+	border-left:solid 3px #459;
+	border-right:solid 3px #459;
+}
+h2
+{
+	margin:0px;
+	padding:20px;
+}
+h1
+{
+	background:url('../images/git-logo.png') no-repeat;
+	background-size: 50px 50px;
+	width:800px;
+	text-indent: 70px;
+	padding:0px auto;
+	margin:0 auto;
+	color:#fff;
+}
+ul.homeList
+{
+	margin:0px;
+	padding:0px;
+}
+ul.homeList li
+{
+	margin:0px 0px;
+	display: block;
+
+}
+ul.homeList li a
+{
+	display: block;
+	padding:10px 40px;
+}
+ul.homeList li a:hover
+{
+	background: #459;
+	color:#fff;
+}
+a.back
+{
+	margin:0px 20px;
+}
